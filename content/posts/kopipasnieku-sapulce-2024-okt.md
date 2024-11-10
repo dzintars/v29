@@ -1,7 +1,7 @@
 +++
 date = '2024-11-10T15:09:36+02:00'
 draft = false
-title = 'Kopīpašnieku Sapulce 2024 Okt'
+title = 'Kopīpašnieku sapulce, Oktobris 2024'
 +++
 
 ## Kopsapulce #1
@@ -20,6 +20,8 @@ Ierakstu veic Iveta. Ieraksta ilgums ~50min.
 Ieraksts pieejams uz pieprasījuma vēršoties pie Ivetas vai Dzintara.
 
 ## Apspriestie jautājumi:
+
+Interesenti tiek aicināti pieteikties pie Dzintara, lai pievienotos mājas WhatsApp grupai.
 
 **(00:00)** Jautājums par ikgadējām kopīpašnieku sapulcēm
 Sapulces nav tikušas organizētas vismaz 10 gadus pēc klātesošo viedokļa.
@@ -123,10 +125,11 @@ Apsaimniekotājs uzklausīja sūdzības. Nekādi solījumi netika sniegti.
 Tiek secināts, ka šis jautājums atduras pret nesakārtotu zemes zem ēkas īpašumtiesību jautājumu.
 Nolemts, ka apsaimniekotājs aktīvāk komunicēs ar kopīpašniekiem par ēkas infrastruktūras uzlabošanas nepieciešamajiem un vēlamajiem darbiem un to izmaksām, lai kopīpašnieki varētu balsot par uzlabojumu veikšanu.
 
-**(41:50)** Iedzīvotāji pauž neapmierinātību par kaķu uzturēšanu pie ēkas
-Tā rezultātā, pagrabu telpas ir kaķu piečurātas un piekakātas (smako), kaijas tiek pievilinātas dēļ izvietotās kaķu barības, tiek bojātas automašīnu virsbūves un kaiju radītais troksnis rada nēērtības lielākajai ēkas iedzīvotāju daļai.
+**(41:50)** Iedzīvotāji pauž neapmierinātību par kaķu uzturēšanu pie ēkas.
+Tā rezultātā, pagrabu telpas ir kaķu piečurātas un piekakātas (smako), kaijas tiek pievilinātas dēļ izvietotās kaķu barības, tiek bojātas automašīnu virsbūves un kaiju radītais troksnis rada neērtības lielākajai ēkas iedzīvotāju daļai.
 Tiek ziņots, ka kaķu uzturētāji uzlauž iedzīvotāju mantu glabātuves, lai atbrīvotu iesprūdušos vai piedzimušos kaķus/kaķēnus.
-Nolemts rīkot balsošanu par kaķu uzturēšanu pie ēkas. Nepieciešams izstrādāt balsošanas piedāvājumu par iespējamiem risinājumiem.
+Nolemts rīkot balsošanu par kaķu uzturēšanu pie ēkas.
+Nepieciešams izstrādāt balsošanas piedāvājumu par iespējamiem risinājumiem.
 
 **(46:10)** Jautājums, kādēļ vienpersoniski tika paaugstināta apsaimniekošanas maksa par 0.05 Eur (+ PVN) 2024.gadā bez saskaņošanas ar ēkas kopīpašniekiem.
 Apsaimniekotājs piekrīt, ka saskaņošana netika veikta un sola, ka šis jautājums turpmāk tiks sakārtots.
@@ -134,7 +137,7 @@ Apsaimniekotājs piekrīt, ka saskaņošana netika veikta un sola, ka šis jaut�
 **(47:50)** Tiek ierosināts pēc mēneša sarīkot vēl vienu kopīpašnieku sapulci, kurā visi jautājumi tiek strukturēti izrunāti un kopīpašniekiem tiek sniegtas sagatavotas atbildes.
 Secinu, ka nepieciešams konkretizēt jautājumus, lai apsaimniekotājs spēj sagatavot konkrētas atbildes.
 
-**(48:40)** Tiek minēts, ka ēkai nepieciešams māja vecākais. Vidutājs, kurš pārstāv kopīpašniekus komunikācijā ar apsaimniekotāju.
+**(48:40)** Tiek minēts, ka ēkai nepieciešams māja vecākais. Vidutājs, kurš pārstāv kopīpašnieku intereses komunikācijā ar apsaimniekotāju.
 
 **(49:30)** Tiek ierosināts nākošajā kopsapulcē virzīt jautājumu par mājas vecākā ievēlēšanu.
 
@@ -144,20 +147,21 @@ Secinu, ka nepieciešams konkretizēt jautājumus, lai apsaimniekotājs spēj sa
 
 ## Sapulces galvenās tēmas:
 
-- Slikta komunikācija ar ēkas iedzīvotājiem no apsaimniekotāja puses
-- Necaurspīdīga ēkas uzkrājumu fonda pārvaldība
-- Daudz neskaidrību ar ēkas lietvedību, reģistriem, aptaujām, sertifikācijām
+- Slikta komunikācija ar ēkas iedzīvotājiem no apsaimniekotāja puses.
+- Necaurspīdīga ēkas uzkrājumu fonda pārvaldība.
+- Daudz neskaidrību ar ēkas lietvedību, reģistriem, aptaujām, sertifikācijām.
 - Neapmierinoša sētnieku sniegto pakalpojumu kvalitāte.
 - Ēkas infrastruktūras kritiskais stāvoklis un kopīpašnieku neinformētība par šī stāvokļa nopietnību.
 
 ## Nolēmumi:
 
-- Apkopot šī protokola jautājumus
-- Iesniegt šo protokolu nama apsaimniekotājam
-- Iepazīstināt ar šo protokolu visus ēkas iedzīvotājus
+- Apkopot šī protokola jautājumus.
+- Iesniegt šo protokolu nama apsaimniekotājam.
+- Iepazīstināt ar šo protokolu visus ēkas iedzīvotājus.
 - Kolektīvi ar apsaimniekotāju sagatavot konkrētas atbildes uz visiem iedzīvotāju jautājumiem un sagatavoties nākošajai kopsapulcei. Prezentēt sagatavotās atbildes, plānus un ierosinājumus kopīpašniekiem nākošās sapulces laikā.
 - Iespēju robežās sagatavot mājas lietas kopijas, lai veiktu detalizētāku izpēti no kopīpašnieku pārstāvju puses.
 - Atbilstoši apkopotajai informācijai sagatavot veicamo darbu plānu, grafiku, izmaksas, maksātāju un atbildīgās personas.
 - Turpmākajām sapulcēm sagatavot dokumentu dalībnieku uzskaitei un parakstu vākšanai.
 - Nodalīt 27.ēkas un 29.ēkas administrēšanu, vai organizēt paralēlu protokolēšanu.
-- Virzīt izskatīšanai jautājumu par ēku vecāko ievēlēšanu
+- Virzīt izskatīšanai jautājumu par ēku vecāko ievēlēšanu.
+- Vēlams turpmākās sapulces organizēt labāk piemērotās telpās, piemēram, skolas klasē.

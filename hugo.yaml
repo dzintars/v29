@@ -4,4 +4,10 @@ languageCode: 'en-us'
 title: 'V29'
 theme: 'PaperMod'
 enableEmoji: true
+
+params:
+  env: production
+  title: V29
+  description: "Vairoga iela 29 ēkas mājas lapa"
+  defaultTheme: auto
 ...
