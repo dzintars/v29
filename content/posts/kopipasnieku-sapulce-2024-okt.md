@@ -1,6 +1,6 @@
 +++
 date = '2024-11-10T15:09:36+02:00'
-draft = true
+draft = false
 title = 'Kopīpašnieku Sapulce 2024 Okt'
 +++
 
