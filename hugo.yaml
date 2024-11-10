@@ -1,0 +1,7 @@
+---
+baseURL: 'https://v29.lv/'
+languageCode: 'en-us'
+title: 'V29'
+theme: 'PaperMod'
+enableEmoji: true
+...
